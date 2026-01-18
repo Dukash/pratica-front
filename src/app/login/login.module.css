@@ -1,0 +1,11 @@
+
+
+.cardLogin {
+    background: linear-gradient(135deg, #f5f7fa 0%, #777777 100%);
+    width:500px;
+    margin: auto;
+    margin-top: 15%;
+    padding: 30px;
+    box-shadow: 0px 4px 8px 2px rgb(0, 204, 255);
+
+}
